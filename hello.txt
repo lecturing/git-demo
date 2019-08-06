@@ -1,12 +1,39 @@
 hello all!!
 
 
-how do you feel today?
+how do you feel today? most likely concurrent edit here >>>>>><<<<<
 
-add a comment!
+add a comment! <<< one more edit  >>>
 
 Hi ya Matin here, try to merge branch
 
 rokhana here
 
+<<<<<<< HEAD
 Fine..........
+=======
+---------------
+Georg here !!!
+=======
+This is a new edit by Georg
+
+
+
+
+
+
+
+
+
+
+
+sdgdffdga
+
+
+
+
+
+askdjgdfklaöjgdklgjdfkl
+>>>>>>> georg
+ woahh
+>>>>>>> f8b26260f8495d89335dd3abeb0d4585dac1dbc7
